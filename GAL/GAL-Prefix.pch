@@ -11,4 +11,13 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    
+NSString *day;
+NSString *Acc;
+NSString *Locations;
+NSMutableArray *myDataAcc;
+NSMutableArray *myDataLoc;
+NSMutableArray *myDataGyro;
+
+
 #endif
